@@ -1,12 +1,42 @@
-## Hi there 👋
+# Xpectrum
 
-<!--
+**NFT marketplace built from scratch on [Octra](https://octra.network).**
 
-**Here are some ideas to get you started:**
+No EVM fork. No chain bridge. Contracts, token standard, and trading infrastructure written natively for Octra's AML execution environment.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## What's here
+
+| Repo | Description |
+|---|---|
+| `xpectrum-contracts` | AML smart contracts — Xcollection, Xlist, Xmarket |
+| `xpectrum-frontend` | Marketplace and Launchpad app |
+| `xpectrum-landing` | Landing page |
+| `mintlify-docs` | Documentation |
+
+---
+
+## Stack
+
+- **Octra** — layer-1 blockchain with native FHE and programmable execution environments (Circles)
+- **AML / OCTB** — Octra's native smart contract language and bytecode
+- **XNS-1** — Xpectrum's NFT token standard for Octra (ERC-721 equivalent)
+- **React + Vite** — frontend
+
+---
+
+## Live
+
+| | |
+|---|---|
+| App | [beta.xpectrum.xyz](https://beta.xpectrum.xyz) |
+| Docs | [docs.xpectrum.xyz](https://docs.xpectrum.xyz) |
+| Network | Octra devnet |
+| Status | Private beta |
+
+---
+
+## Links
+
+[Discord](https://discord.gg/vtH5bZ5sBt) · [X](https://x.com/xpectrum_xyz) · [Docs](https://docs.xpectrum.xyz)

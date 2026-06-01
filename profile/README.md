@@ -10,7 +10,7 @@ No EVM fork. No chain bridge. Contracts, token standard, and trading infrastruct
 
 | Repo | Description |
 |---|---|
-| `xpectrum-contracts` | AML smart contracts — Xcollection, Xlist, Xmarket |
+| `xpectrum-contracts` | AML smart contracts: Xcollection, Xlist, Xmarket |
 | `xpectrum-frontend` | Marketplace and Launchpad app |
 | `xpectrum-landing` | Landing page |
 | `mintlify-docs` | Documentation |

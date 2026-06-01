@@ -19,10 +19,10 @@ No EVM fork. No chain bridge. Contracts, token standard, and trading infrastruct
 
 ## Stack
 
-- **Octra** — layer-1 blockchain with native FHE and programmable execution environments (Circles)
-- **AML / OCTB** — Octra's native smart contract language and bytecode
-- **XNS-1** — Xpectrum's NFT token standard for Octra (ERC-721 equivalent)
-- **React + Vite** — frontend
+- **Octra** - layer-1 blockchain with native FHE and programmable execution environments (Circles)
+- **AML / OCTB** - Octra's native smart contract language and bytecode
+- **XNS-1** - Xpectrum's NFT token standard for Octra (ERC-721 equivalent)
+- **React + Vite** - frontend
 
 ---
 
@@ -30,7 +30,7 @@ No EVM fork. No chain bridge. Contracts, token standard, and trading infrastruct
 
 | | |
 |---|---|
-| App | [beta.xpectrum.xyz](https://beta.xpectrum.xyz) |
+| Private Beta | [beta.xpectrum.xyz](https://beta.xpectrum.xyz) |
 | Docs | [docs.xpectrum.xyz](https://docs.xpectrum.xyz) |
 | Network | Octra devnet |
 | Status | Private beta |
